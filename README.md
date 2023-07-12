@@ -37,6 +37,13 @@
 ### 📊 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnet663&hide=makefile,cmake&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🐳 What can I show:
+- ⚙️ My implementation of dynamic array:
+- 🧠 My ~~stupid~~ smart pointer shared_ptr:
+- 🎮 My old game written on Pascal:[![Pascal Badge](https://img.shields.io/badge/Pascal_Game-yellow)]("https://github.com/maxnet663/Game_on_Pascal")
 <!--
 **maxnet663/maxnet663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
