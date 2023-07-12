@@ -40,10 +40,14 @@
 
 ---
 
+<a href="https://github.com/maxnet663/Game_on_Pascal">
+    <img src="https://img.shields.io/badge/Pascal_Game-yellow"/>
+</a>
+
 ### 🐳 What can I show:
 - ⚙️ My implementation of dynamic array:
 - 🧠 My ~~stupid~~ smart pointer shared_ptr:
-- 🎮 My old game written on Pascal:[![Pascal Badge](https://img.shields.io/badge/Pascal_Game-yellow)]("https://github.com/maxnet663/Game_on_Pascal")
+- 🎮 My old game written on Pascal:  [![Pascal Badge](https://img.shields.io/badge/Pascal_Game-yellow)]("https://github.com/maxnet663/Game_on_Pascal")
 <!--
 **maxnet663/maxnet663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
