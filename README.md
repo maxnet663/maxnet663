@@ -4,7 +4,7 @@
   <a href="https://t.me/mak_aki">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-
+</div>
 </div>
 
 ### :penguin: About Me :
