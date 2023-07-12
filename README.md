@@ -52,6 +52,10 @@
 - 🎮 My old game written on Pascal:  <a href="https://github.com/maxnet663/Game_on_Pascal">
     <img src="https://img.shields.io/badge/Pascal_Game-yellow"/>
 </a>
+
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width=200 height=200/>
+</div>
 <!--
 **maxnet663/maxnet663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
