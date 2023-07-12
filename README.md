@@ -1,11 +1,11 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width=200 height=200/>
-</div>
-
 <div id="badges">
   <a href="https://t.me/mak_aki">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+
+</div>
 
 ### :penguin: About Me :
 Studied Pascal and C. I've been learning C++ for the last year.
