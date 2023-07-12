@@ -6,7 +6,7 @@
   </a>
 </div>
 </div>
-
+---
 ### :penguin: About Me :
 - 🧙‍♂️ I am very deep into C++ for last year
 - 🔭 Studied C and Pascal
@@ -14,6 +14,7 @@
 - 📖 In in my free time I like to read books and articles or walk in nature
 - 📲 Feel free to contact me [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)]("https://t.me/mak_aki")
  :wq
+---
 <!--
 **maxnet663/maxnet663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
