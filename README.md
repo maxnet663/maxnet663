@@ -13,10 +13,10 @@
 - 👨‍🎓 I study at the correspondence faculty at the university as a web developer
 - 📖 In in my free time I like to read books and articles or walk in nature
 - 📲 Feel free to contact me [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)]("https://t.me/mak_aki")
-  
- :wq
+
  
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -56,6 +56,8 @@
 <div id="header">
 <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width=200 height=200/>
 </div>
+
+:wq
 <!--
 **maxnet663/maxnet663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
