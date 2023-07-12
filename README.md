@@ -3,8 +3,9 @@
 </div>
 
 <div id="badges">
-<img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
-</div>
+  <a href="telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
 
 ### :penguin: About Me :
 Studied Pascal and C. I've been learning C++ for the last year.
