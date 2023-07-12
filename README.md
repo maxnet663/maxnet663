@@ -46,7 +46,7 @@
 </a>
 
 - 🧠 My ~~stupid~~ smart pointer shared_ptr:  <a href="https://github.com/maxnet663/shared_ptr">
-    <img src="https://img.shields.io/badge/shared_ptr-blue"/>
+    <img src="https://img.shields.io/badge/shared_ptr-blue?logo=cplusplus"/>
 </a>
 
 - 🎮 My old game written on Pascal:  <a href="https://github.com/maxnet663/Game_on_Pascal">
