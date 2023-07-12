@@ -8,9 +8,10 @@
 </div>
 
 ### :penguin: About Me :
-Studied Pascal and C. I've been learning C++ for the last year.
-
-
+- 🧙‍♂️ I am very deep into C++ for last year
+- 🔭 Studied C and Pascal
+- 👨‍🎓 I study at the correspondence faculty at the university as a web developer
+- 📖 In in my free time I like to read books and articles or walk in nature
 <!--
 **maxnet663/maxnet663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
