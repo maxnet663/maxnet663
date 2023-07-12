@@ -2,6 +2,14 @@
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width=200 height=200/>
 </div>
 
+<div id="badges">
+<img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
+</div>
+
+### :penguin: About Me :
+Studied Pascal and C. I've been learning C++ for the last year.
+
+
 <!--
 **maxnet663/maxnet663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
