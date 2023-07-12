@@ -41,12 +41,14 @@
 ---
 
 ### 🐳 What can I show:
-- ⚙️ My implementation of dynamic array:  <a href="https://github.com/maxnet663/Game_on_Pascal">
-    <img src="https://img.shields.io/badge/Pascal_Game-yellow"/>
+- ⚙️ My implementation of dynamic array:  <a href="https://github.com/maxnet663/dynamic_array">
+    <img src="https://img.shields.io/badge/dynamic_array-red?logo=cplusplus"/>
 </a>
+
 - 🧠 My ~~stupid~~ smart pointer shared_ptr:  <a href="https://github.com/maxnet663/shared_ptr">
     <img src="https://img.shields.io/badge/shared_ptr-blue"/>
 </a>
+
 - 🎮 My old game written on Pascal:  <a href="https://github.com/maxnet663/Game_on_Pascal">
     <img src="https://img.shields.io/badge/Pascal_Game-yellow"/>
 </a>
