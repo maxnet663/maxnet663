@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width=200 height=200/>
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width=250 height=250/>
 <div id="badges">
   <a href="https://t.me/mak_aki">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Pascal_Game-yellow"/>
 </a>
 
-<div id="header" align="center">
+<div id="header">
 <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width=200 height=200/>
 </div>
 <!--
