@@ -58,6 +58,9 @@
     <img src="https://img.shields.io/badge/stack_of_double-purple?logo=c"/>
 </a>
 
+- 🤴 Two options for graph implementation  <a href="https://github.com/maxnet663/graph">
+    <img src="https://img.shields.io/badge/graph-indigo?logo=hubspot"/>
+</a>
 
 <div id="header">
 <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width=200 height=200/>
