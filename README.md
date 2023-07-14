@@ -50,6 +50,9 @@
     <img src="https://img.shields.io/badge/Pascal_Game-yellow"/>
 </a>
 
+- 🌴 My binary search ~~~palm~~~ ~~~oak~~~ tree:  <a href="https://github.com/maxnet663/binary_search_tree">
+    <img src="https://img.shields.io/badge/BST-green"/>
+
 <div id="header">
 <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width=200 height=200/>
 </div>
