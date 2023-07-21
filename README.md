@@ -31,11 +31,12 @@
 
 ---
 
-### 📊 My Stats :
+<!--### 📊 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnet663&hide=makefile,cmake&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+-->
 
 ### 🐳 What can I show:
 - ⚙️ My implementation of dynamic array:  <a href="https://github.com/maxnet663/dynamic_array">
