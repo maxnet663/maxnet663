@@ -39,8 +39,8 @@
 -->
 
 ### 🐳 What can I show:
-- ⚙️ Search Engine:  <a href="https://github.com/maxnet663/dynamic_array">
-    <img src="https://img.shields.io/badge/dynamic_array-red?logo=cplusplus"/>
+- ⚙️ Search Engine:  <a href="https://github.com/maxnet663/search_engine">
+    <img src="https://img.shields.io/badge/search_engine-lightgrey?logo=cplusplus"/>
 </a>
 
 - :link: My implementation of dynamic array:  <a href="https://github.com/maxnet663/dynamic_array">
