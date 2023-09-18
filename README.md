@@ -39,7 +39,11 @@
 -->
 
 ### 🐳 What can I show:
-- ⚙️ My implementation of dynamic array:  <a href="https://github.com/maxnet663/dynamic_array">
+- ⚙️ Search Engine:  <a href="https://github.com/maxnet663/dynamic_array">
+    <img src="https://img.shields.io/badge/dynamic_array-red?logo=cplusplus"/>
+</a>
+
+- :link: My implementation of dynamic array:  <a href="https://github.com/maxnet663/dynamic_array">
     <img src="https://img.shields.io/badge/dynamic_array-red?logo=cplusplus"/>
 </a>
 
@@ -55,7 +59,7 @@
     <img src="https://img.shields.io/badge/BST-green"/>
 </a>
 
-- 🥤Stack of double on C :  <a href="https://github.com/maxnet663/stack_in_c">
+- 🥤 Stack of double on C :  <a href="https://github.com/maxnet663/stack_in_c">
     <img src="https://img.shields.io/badge/stack_of_double-purple?logo=c"/>
 </a>
 
